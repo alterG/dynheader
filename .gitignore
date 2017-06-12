@@ -1,3 +1,4 @@
 .idea
-*.xml
+pom.xml
 *.iml
+/src/main/resources/notes
